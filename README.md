@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShadowRocket227 and for now i'm rookie in the world of the programming and of the technology.
-- 👀 I’m interested in OS, Python, AI and videogames.
-- 🌱 I’m currently learning how to use DISM, a very hard tool of Windows.
+- 👀 I’m interested in OSs, coding, AI and videogames developing and gaming.
+- 🌱 I’m currently studing Python.
 - 📫 How to reach me: you can write me to the email ettoreronchini10@gmail.com
 
 <!---
