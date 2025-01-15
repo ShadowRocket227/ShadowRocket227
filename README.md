@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShadowRocket227 and for now i'm a rookie in the world of the programming and of the technology.
+- 👋 Hi, I’m @ShadowRocket227 and I enjoy every good tech project and ideas. I'm ready to collaborate with everyone is ready to hard work !
 - 👀 I’m interested in OSs, coding, AI and videogames developing and gaming.
 - 🌱 I’m currently studing Python.
 - 📫 How to reach me: you can write me to the email wv63chqva@mozmail.com
